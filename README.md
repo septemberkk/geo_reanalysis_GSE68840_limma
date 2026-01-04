@@ -6,7 +6,8 @@ This is a reanalysis of **GSE68840** (Illumina HumanHT-12 WG-DASL V4.0, GPL13938
 
 ## Dataset
 - GEO: GSE68840  
-- Platform: GPL13938-11302  
+- Platform: GPL13938-11302
+- Data type: Expression profiling by array (microarray)
 - Biological contrast: **Resistant vs Parental** 
 
 
